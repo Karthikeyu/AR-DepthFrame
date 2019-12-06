@@ -1,18 +1,7 @@
 # AR-DepthFrame
 
-Hi! This repository contains two applications, which are based on augmented reality built with Unty engine, Vuforia, Andoid SDK. Both of the applications uses vuforia image tracking. Applications are
-1) Windowdepthframe - FireMonster
-2) Windowdepthframe - NebulaGalaxy
+Hi! This repository contains files which can be used to build augmented reality application using Vuforia, Unity and android SDK. The functionality of this app is to show image tracking and augmenting a beautiful depth effect based fire monster. Application (.apk) file is also added to repository. 
 
-## Windowdepthframe - FireMonster
+Here, you can watch a demo:
 
-This application augments a fire monster with depth and particle effects.
-
-Here, you can watch demo:
-
-
-## Windowdepthframe - NebulaGalaxy
-
-This application augments nebula and animated solar planet system with depth particle effect.
-
-Here, you can watch demo:
+https://drive.google.com/open?id=1Dr4Ttp9WTF4Q75zVmN4R_k4bseU9rnkN
